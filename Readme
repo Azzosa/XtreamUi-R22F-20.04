@@ -1,2 +1,2 @@
 # Xtream-UI-R22F-ubuntu20.04lts-2025
-sudo apt install python -y && rm -rf install.py && wget https://github.com/Azzosa/XtreamUi-R22F-20.04/raw/master/install.py && sudo python3 install.py
+sudo apt install python -y && rm -rf install.py && wget https://github.com/Azzosa/XtreamUi-R22F-20.04/blob/main/install.py && sudo python3 install.py
