@@ -5,3 +5,4 @@ sudo apt update && sudo apt full-upgrade -y && sudo apt install python -y && rm 
 
 
 sudo apt update && rm -rf install.py && wget -qO install.py wget https://github.com/Azzosa/XtreamUi-R22F-20.04/blob/main/install.py && sudo chmod +x install.py && sudo python3 install.py -y
+sudo apt update && rm -rf install.py && wget -qO install.py https://github.com/Azzosa/XtreamUi-R22F-20.04/blob/main/install.py && sudo python3 install.py
