@@ -8,7 +8,7 @@ Using this script, you can configure the Xtream-UI management panel with the lat
 
 Installation 
 
-sudo apt update && rm -rf install.py && wget -qO install.py https://github.com/Azzosa/XtreamUi-R22F-20.04/blob/main/install.py && sudo python3 install.py
+sudo apt update && rm -rf install.py && wget -qO install.py https://github.com/Azzosa/XtreamUi-R22F-22.04/blob/main/install.py && sudo python3 install.py
 
 
 It has been tested on Ubuntu 22.04.
